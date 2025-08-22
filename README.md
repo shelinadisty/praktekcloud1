@@ -2,7 +2,7 @@ metadata
 ---
 title: Praktekcloud1
 emoji: 👀
-license: mit
+license: MIT
 colorFrom: blue
 colorTo: green
 sdk: docker
