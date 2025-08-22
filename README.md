@@ -11,7 +11,7 @@ pinned: false
 
 Website ini di-host menggunakan Docker di Hugging Face Spaces.
 
-Dibuat dengan ❤️ oleh yudarahma.
+Dibuat dengan ❤️ oleh shelinadisty.
 
 Perbaikian README.md
 
